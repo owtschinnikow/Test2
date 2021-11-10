@@ -20,6 +20,5 @@ david()
 #turtle.backward(200)
 #david()
 
-
 turtle.hideturtle()
 turtle.done()
