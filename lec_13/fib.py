@@ -3,6 +3,3 @@ def fib(n: int):
         return n
     else:
         return fib(n-1) + fib(n-2)
-
-if __name__ == '__main__':
-    main()
